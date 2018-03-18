@@ -19,6 +19,11 @@
   permalink: kleur/
   # fa-icon: icon-info
 
+- name: Typografie
+  description: Typografie
+  permalink: /typografie
+  # fa-icon: icon-info
+
 - name: Styleguide
   description: Stijlgids voor de Huistijlgids
   # folder: pages/stijlgids
