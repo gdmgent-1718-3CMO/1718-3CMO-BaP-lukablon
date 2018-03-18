@@ -105,3 +105,20 @@ div > .zw-white {
 h1:not(:first-of-type) {
   margin: 3rem 0 1rem;
 }
+
+.fa-exclamation-triangle {
+  color: $mycolor-1;
+}
+
+/* kleur menu fix*/
+
+.nav-link:active{
+  background-color: $mycolor-3;
+}
+.dropdown-item:active {
+  background-color: $mycolor-3;
+  color: $color-grey-5;
+}
+.navbar-brand:active {
+  background-color: $color-white;
+}
