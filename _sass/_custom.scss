@@ -101,3 +101,7 @@ div > .zw-white {
 .zw-white {
   background-color: $clientcolor-6;
 }
+
+h1:not(:first-of-type) {
+  margin: 3rem 0 1rem;
+}
