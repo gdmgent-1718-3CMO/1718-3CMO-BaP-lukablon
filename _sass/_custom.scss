@@ -113,11 +113,16 @@ h1:not(:first-of-type) {
 /* kleur menu fix*/
 
 .nav-link:active{
-  background-color: $mycolor-3;
+  background-color: $mycolor-1;
+
 }
 .dropdown-item:active {
-  background-color: $mycolor-3;
-  color: $color-grey-5;
+  background-color: $mycolor-1;
+
+}
+.dropdown-item:visited {
+  background-color: $mycolor-1;
+
 }
 .navbar-brand:active {
   background-color: $color-white;
