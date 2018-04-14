@@ -127,3 +127,18 @@ h1:not(:first-of-type) {
 .navbar-brand:active {
   background-color: $color-white;
 }
+
+/* aanpassingen */
+.margin1 {
+  margin-bottom: 15px;
+}
+.margin2 {
+  margin-bottom: 25px;
+}
+.footer-text {
+  font-size: 10px;
+  line-height: 1.4em;
+  color: $mycolor-1;
+  padding: 20px 20px;
+  
+}
